@@ -1,0 +1,32 @@
+body{
+  background-color: #bbdfee;
+}
+h1{
+  color: #1c4a9c;
+  font-family: cursive;
+  margin: inherit; 
+  font-style: italic;
+}
+h2{
+  color: #3080d4;
+  font-family: inherit;
+}
+h3{
+  color: #0b5fb0;
+  font-family:sans-serif;
+}
+li{
+  color: #0e8db7;
+}
+p{
+  color: #0760b6;
+  font-style: italic;
+  font-size: 19px;
+}
+img{
+  width: 197px;
+  border-color: dodgerblue;
+}
+.class-h2{
+  font-style: italic;
+}
